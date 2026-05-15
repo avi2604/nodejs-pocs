@@ -1,0 +1,45 @@
+{
+  "common": {
+    "internalServerError": "Internal server error",
+    "validationFailed": "Validation failed",
+    "duplicateValueDetected": "Duplicate value detected",
+    "invalidFieldPrefix": "Invalid",
+    "routeNotFoundPrefix": "Route not found:"
+  },
+  "auth": {
+    "userNotAuthenticated": "User not authenticated",
+    "invalidToken": "Invalid token",
+    "tokenExpired": "Token expired",
+    "userNotFound": "User not found",
+    "wrongPassword": "Wrong password"
+  },
+  "user": {
+    "passwordRequired": "Password is required",
+    "passwordNotStrongEnough": "Password is not strong enough",
+    "userAlreadyExists": "User already exist",
+    "emailAndPasswordRequired": "Email and password are required",
+    "invalidEmailFormat": "Invalid email format",
+    "userNotFound": "User not found",
+    "genderNotValid": "Gender is not valid"
+  },
+  "profile": {
+    "userIdRequired": "userId is required",
+    "userNotFound": "User not found"
+  },
+  "connection": {
+    "invalidStatus": "Invalid status",
+    "cannotConnectToSelf": "You cannot send a connection request to yourself",
+    "connectionAlreadyExists": "Connection already exists",
+    "invalidConnectionRequest": "Invalid connection request",
+    "senderMismatch": "Sender does not match the connection request",
+    "provideValidStatus": "please provide valid status"
+  },
+  "success": {
+    "userSignedUp": "User signed up successfully",
+    "loginSuccessful": "Login successful",
+    "userLoggedOut": "User logged out successfully",
+    "connectionSentSuffix": "sent connection request",
+    "connectionEstablished": "Connection got established successfully",
+    "connectionUpdated": "Connection updated successfully"
+  }
+}
